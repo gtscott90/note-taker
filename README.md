@@ -17,4 +17,4 @@ Users simply need to open the app, type in a note and click the save button. The
 
 ### Links
 Link to github reposity: https://github.com/gtscott90/note-taker
-Link to deployed application: 
+Link to deployed application: https://gentle-lake-29955.herokuapp.com/ 
